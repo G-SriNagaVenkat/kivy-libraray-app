@@ -1,0 +1,154 @@
+{
+  "genres": {
+    "Fiction": [
+      {
+        "title": "The Last Garden",
+        "author": "A. Author",
+        "desc": "A charming tale of..."
+      },
+      {
+        "title": "Wind and Stars",
+        "author": "E. Writer",
+        "desc": "Space meets..."
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "desc": "A classic novel exploring racial injustice and loss of innocence in the American South."
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "desc": "A dystopian social science fiction novel and cautionary tale about totalitarianism."
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "desc": "A romantic novel of manners written at the turn of the 19th century."
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "desc": "A story of the American Dream, wealth, and longing set in the Jazz Age."
+      }
+    ],
+    "Science": [
+      {
+        "title": "Quantum Patterns",
+        "author": "Dr. Q",
+        "desc": "An introduction to..."
+      },
+      {
+        "title": "Cosmos",
+        "author": "Carl Sagan",
+        "desc": "An inspiring journey through scientific knowledge and the history of space exploration."
+      },
+      {
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "desc": "Explores fundamental physics and cosmology for a general audience."
+      },
+      {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "desc": "Examines the entire history of humankind, from the evolution of Homo sapiens to the modern era."
+      },
+      {
+        "title": "The Selfish Gene",
+        "author": "Richard Dawkins",
+        "desc": "A work of evolutionary biology that popularized the gene-centered view of evolution."
+      },
+      {
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "desc": "The story of Henrietta Lacks, whose cells were taken without her knowledge and became vital to medical research."
+      }
+    ],
+    "Mystery": [
+      {
+        "title": "The Missing Key",
+        "author": "Sleuth",
+        "desc": "A whodunit set in..."
+      },
+      {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "desc": "A gripping psychological thriller centered on a marriage that goes terribly wrong."
+      },
+      {
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "desc": "Ten strangers are lured to an island where they are murdered one by one."
+      },
+      {
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "desc": "Sherlock Holmes and Dr. Watson investigate a legendary curse on a family's estate."
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "desc": "A disgraced journalist and a young computer hacker investigate a disappearance that occurred forty years earlier."
+      },
+      {
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "desc": "A psychotherapist attempts to unravel the mystery of a famous painter who refuses to speak after murdering her husband."
+      }
+    ],
+    "Fantasy": [
+      {
+        "title": "The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "desc": "The first volume of The Lord of the Rings, following a hobbit's quest to destroy a powerful ring."
+      },
+      {
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "desc": "The opening installment of A Song of Ice and Fire, detailing a struggle for control of the Iron Throne."
+      },
+      {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "desc": "The first book in the series that follows Harry Potter during his first year at Hogwarts School of Witchcraft and Wizardry."
+      },
+      {
+        "title": "Mistborn: The Final Empire",
+        "author": "Brandon Sanderson",
+        "desc": "The first book in a trilogy set in a world where the sun rarely shines and ash falls from the sky."
+      },
+      {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "desc": "The story of Kvothe, a famous magician, musician, and assassin, told in his own words."
+      }
+    ],
+    "Biography": [
+      {
+        "title": "Steve Jobs",
+        "author": "Walter Isaacson",
+        "desc": "The definitive biography of the charismatic and intensely driven co-founder of Apple."
+      },
+      {
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "desc": "A memoir of the former First Lady of the United States."
+      },
+      {
+        "title": "The Autobiography of Malcolm X",
+        "author": "Malcolm X & Alex Haley",
+        "desc": "The story of the African American Muslim minister and human rights activist."
+      },
+      {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "desc": "A memoir about a young woman who, kept out of school by her survivalist parents, eventually earns a PhD from Cambridge University."
+      },
+      {
+        "title": "Alexander Hamilton",
+        "author": "Ron Chernow",
+        "desc": "The biography that inspired the hit Broadway musical."
+      }
+    ]
+  }
+}
